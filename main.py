@@ -1,3 +1,4 @@
+# you just have to remove the comment and run the code as you want...!
 '''
 '''#Full_name = 'Sameer Ahmad'
 #age = 20
